@@ -1,0 +1,24 @@
+h1{
+    color:red;
+}
+img{
+    width:400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:#5AF;
+    padding:50px;
+    border:4px dashed red; 
+}
+#spanId{
+    font-size:18px;
+    margin:50px;
+}
+body{
+    background-image: url(https://previews.123rf.com/images/tokhiti/tokhiti1807/tokhiti180700380/114777074-granos-de-caf%C3%A9-sobre-fondo-blanco-patr%C3%B3n-sin-costuras-para-estampados-textiles-papel-de-regalo-o-pap.jpg);
+}
+div{
+    display: inline-block;
+    
+}
